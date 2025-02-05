@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haydarb\\source\\repos\\ProgressBarKullan\u0131m\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85D046AA-6EC3-4411-9F5F-585D4460D017}|ProgressBarKullan\u0131m\u0131\\ProgressBarKullan\u0131m\u0131.csproj|c:\\users\\haydarb\\source\\repos\\progressbarkullan\u0131m\u0131\\progressbarkullan\u0131m\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D046AA-6EC3-4411-9F5F-585D4460D017}|ProgressBarKullan\u0131m\u0131\\ProgressBarKullan\u0131m\u0131.csproj|solutionrelative:progressbarkullan\u0131m\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D046AA-6EC3-4411-9F5F-585D4460D017}|ProgressBarKullan\u0131m\u0131\\ProgressBarKullan\u0131m\u0131.csproj|c:\\users\\haydarb\\source\\repos\\progressbarkullan\u0131m\u0131\\progressbarkullan\u0131m\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85D046AA-6EC3-4411-9F5F-585D4460D017}|ProgressBarKullan\u0131m\u0131\\ProgressBarKullan\u0131m\u0131.csproj|solutionrelative:progressbarkullan\u0131m\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D046AA-6EC3-4411-9F5F-585D4460D017}|ProgressBarKullan\u0131m\u0131\\ProgressBarKullan\u0131m\u0131.csproj|c:\\users\\haydarb\\source\\repos\\progressbarkullan\u0131m\u0131\\progressbarkullan\u0131m\u0131\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D046AA-6EC3-4411-9F5F-585D4460D017}|ProgressBarKullan\u0131m\u0131\\ProgressBarKullan\u0131m\u0131.csproj|solutionrelative:progressbarkullan\u0131m\u0131\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\haydarb\\source\\repos\\ProgressBarKullan\u0131m\u0131\\ProgressBarKullan\u0131m\u0131\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ProgressBarKullan\u0131m\u0131\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\haydarb\\source\\repos\\ProgressBarKullan\u0131m\u0131\\ProgressBarKullan\u0131m\u0131\\Form1.Designer.cs",
+              "RelativeToolTip": "ProgressBarKullan\u0131m\u0131\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:13:49.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\haydarb\\source\\repos\\ProgressBarKullan\u0131m\u0131\\ProgressBarKullan\u0131m\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "ProgressBarKullan\u0131m\u0131\\Form1.cs",
+              "ToolTip": "C:\\Users\\haydarb\\source\\repos\\ProgressBarKullan\u0131m\u0131\\ProgressBarKullan\u0131m\u0131\\Form1.cs",
+              "RelativeToolTip": "ProgressBarKullan\u0131m\u0131\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:13:39.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\haydarb\\source\\repos\\ProgressBarKullan\u0131m\u0131\\ProgressBarKullan\u0131m\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "ProgressBarKullan\u0131m\u0131\\Form1.cs",
+              "ToolTip": "C:\\Users\\haydarb\\source\\repos\\ProgressBarKullan\u0131m\u0131\\ProgressBarKullan\u0131m\u0131\\Form1.cs [Design]",
+              "RelativeToolTip": "ProgressBarKullan\u0131m\u0131\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:10:16.447Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

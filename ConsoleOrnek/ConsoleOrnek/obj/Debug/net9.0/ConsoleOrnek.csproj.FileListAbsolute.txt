@@ -1,0 +1,14 @@
+C:\Users\haydarb\source\repos\ConsoleOrnek\ConsoleOrnek\bin\Debug\net9.0\ConsoleOrnek.exe
+C:\Users\haydarb\source\repos\ConsoleOrnek\ConsoleOrnek\bin\Debug\net9.0\ConsoleOrnek.deps.json
+C:\Users\haydarb\source\repos\ConsoleOrnek\ConsoleOrnek\bin\Debug\net9.0\ConsoleOrnek.runtimeconfig.json
+C:\Users\haydarb\source\repos\ConsoleOrnek\ConsoleOrnek\bin\Debug\net9.0\ConsoleOrnek.dll
+C:\Users\haydarb\source\repos\ConsoleOrnek\ConsoleOrnek\bin\Debug\net9.0\ConsoleOrnek.pdb
+C:\Users\haydarb\source\repos\ConsoleOrnek\ConsoleOrnek\obj\Debug\net9.0\ConsoleOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\ConsoleOrnek\ConsoleOrnek\obj\Debug\net9.0\ConsoleOrnek.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\ConsoleOrnek\ConsoleOrnek\obj\Debug\net9.0\ConsoleOrnek.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\ConsoleOrnek\ConsoleOrnek\obj\Debug\net9.0\ConsoleOrnek.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\ConsoleOrnek\ConsoleOrnek\obj\Debug\net9.0\ConsoleOrnek.dll
+C:\Users\haydarb\source\repos\ConsoleOrnek\ConsoleOrnek\obj\Debug\net9.0\refint\ConsoleOrnek.dll
+C:\Users\haydarb\source\repos\ConsoleOrnek\ConsoleOrnek\obj\Debug\net9.0\ConsoleOrnek.pdb
+C:\Users\haydarb\source\repos\ConsoleOrnek\ConsoleOrnek\obj\Debug\net9.0\ConsoleOrnek.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\ConsoleOrnek\ConsoleOrnek\obj\Debug\net9.0\ref\ConsoleOrnek.dll

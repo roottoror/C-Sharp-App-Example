@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\DinamikAraclar\DinamikAraclar\bin\Debug\net8.0-windows\DinamikAraclar.exe
+C:\Users\haydarb\source\repos\DinamikAraclar\DinamikAraclar\bin\Debug\net8.0-windows\DinamikAraclar.deps.json
+C:\Users\haydarb\source\repos\DinamikAraclar\DinamikAraclar\bin\Debug\net8.0-windows\DinamikAraclar.runtimeconfig.json
+C:\Users\haydarb\source\repos\DinamikAraclar\DinamikAraclar\bin\Debug\net8.0-windows\DinamikAraclar.dll
+C:\Users\haydarb\source\repos\DinamikAraclar\DinamikAraclar\bin\Debug\net8.0-windows\DinamikAraclar.pdb
+C:\Users\haydarb\source\repos\DinamikAraclar\DinamikAraclar\obj\Debug\net8.0-windows\DinamikAraclar.Form1.resources
+C:\Users\haydarb\source\repos\DinamikAraclar\DinamikAraclar\obj\Debug\net8.0-windows\DinamikAraclar.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\DinamikAraclar\DinamikAraclar\obj\Debug\net8.0-windows\DinamikAraclar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\DinamikAraclar\DinamikAraclar\obj\Debug\net8.0-windows\DinamikAraclar.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\DinamikAraclar\DinamikAraclar\obj\Debug\net8.0-windows\DinamikAraclar.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\DinamikAraclar\DinamikAraclar\obj\Debug\net8.0-windows\DinamikAraclar.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\DinamikAraclar\DinamikAraclar\obj\Debug\net8.0-windows\DinamikAraclar.dll
+C:\Users\haydarb\source\repos\DinamikAraclar\DinamikAraclar\obj\Debug\net8.0-windows\refint\DinamikAraclar.dll
+C:\Users\haydarb\source\repos\DinamikAraclar\DinamikAraclar\obj\Debug\net8.0-windows\DinamikAraclar.pdb
+C:\Users\haydarb\source\repos\DinamikAraclar\DinamikAraclar\obj\Debug\net8.0-windows\DinamikAraclar.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\DinamikAraclar\DinamikAraclar\obj\Debug\net8.0-windows\ref\DinamikAraclar.dll

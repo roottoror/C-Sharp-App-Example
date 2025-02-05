@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\FaktoriyelOrnegi\FaktoriyelOrnegi\obj\Debug\net9.0-windows\FaktoriyelOrnegi.Form1.resources
+C:\Users\haydarb\source\repos\FaktoriyelOrnegi\FaktoriyelOrnegi\obj\Debug\net9.0-windows\FaktoriyelOrnegi.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\FaktoriyelOrnegi\FaktoriyelOrnegi\obj\Debug\net9.0-windows\FaktoriyelOrnegi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\FaktoriyelOrnegi\FaktoriyelOrnegi\obj\Debug\net9.0-windows\FaktoriyelOrnegi.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\FaktoriyelOrnegi\FaktoriyelOrnegi\obj\Debug\net9.0-windows\FaktoriyelOrnegi.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\FaktoriyelOrnegi\FaktoriyelOrnegi\obj\Debug\net9.0-windows\FaktoriyelOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\FaktoriyelOrnegi\FaktoriyelOrnegi\bin\Debug\net9.0-windows\FaktoriyelOrnegi.exe
+C:\Users\haydarb\source\repos\FaktoriyelOrnegi\FaktoriyelOrnegi\bin\Debug\net9.0-windows\FaktoriyelOrnegi.deps.json
+C:\Users\haydarb\source\repos\FaktoriyelOrnegi\FaktoriyelOrnegi\bin\Debug\net9.0-windows\FaktoriyelOrnegi.runtimeconfig.json
+C:\Users\haydarb\source\repos\FaktoriyelOrnegi\FaktoriyelOrnegi\bin\Debug\net9.0-windows\FaktoriyelOrnegi.dll
+C:\Users\haydarb\source\repos\FaktoriyelOrnegi\FaktoriyelOrnegi\bin\Debug\net9.0-windows\FaktoriyelOrnegi.pdb
+C:\Users\haydarb\source\repos\FaktoriyelOrnegi\FaktoriyelOrnegi\obj\Debug\net9.0-windows\FaktoriyelOrnegi.dll
+C:\Users\haydarb\source\repos\FaktoriyelOrnegi\FaktoriyelOrnegi\obj\Debug\net9.0-windows\refint\FaktoriyelOrnegi.dll
+C:\Users\haydarb\source\repos\FaktoriyelOrnegi\FaktoriyelOrnegi\obj\Debug\net9.0-windows\FaktoriyelOrnegi.pdb
+C:\Users\haydarb\source\repos\FaktoriyelOrnegi\FaktoriyelOrnegi\obj\Debug\net9.0-windows\FaktoriyelOrnegi.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\FaktoriyelOrnegi\FaktoriyelOrnegi\obj\Debug\net9.0-windows\ref\FaktoriyelOrnegi.dll

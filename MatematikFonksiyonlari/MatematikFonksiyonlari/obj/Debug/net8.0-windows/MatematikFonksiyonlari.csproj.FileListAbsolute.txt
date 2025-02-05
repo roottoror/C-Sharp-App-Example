@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\MatematikFonksiyonlari\MatematikFonksiyonlari\bin\Debug\net8.0-windows\MatematikFonksiyonlari.exe
+C:\Users\haydarb\source\repos\MatematikFonksiyonlari\MatematikFonksiyonlari\bin\Debug\net8.0-windows\MatematikFonksiyonlari.deps.json
+C:\Users\haydarb\source\repos\MatematikFonksiyonlari\MatematikFonksiyonlari\bin\Debug\net8.0-windows\MatematikFonksiyonlari.runtimeconfig.json
+C:\Users\haydarb\source\repos\MatematikFonksiyonlari\MatematikFonksiyonlari\bin\Debug\net8.0-windows\MatematikFonksiyonlari.dll
+C:\Users\haydarb\source\repos\MatematikFonksiyonlari\MatematikFonksiyonlari\bin\Debug\net8.0-windows\MatematikFonksiyonlari.pdb
+C:\Users\haydarb\source\repos\MatematikFonksiyonlari\MatematikFonksiyonlari\obj\Debug\net8.0-windows\MatematikFonksiyonlari.Form1.resources
+C:\Users\haydarb\source\repos\MatematikFonksiyonlari\MatematikFonksiyonlari\obj\Debug\net8.0-windows\MatematikFonksiyonlari.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\MatematikFonksiyonlari\MatematikFonksiyonlari\obj\Debug\net8.0-windows\MatematikFonksiyonlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\MatematikFonksiyonlari\MatematikFonksiyonlari\obj\Debug\net8.0-windows\MatematikFonksiyonlari.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\MatematikFonksiyonlari\MatematikFonksiyonlari\obj\Debug\net8.0-windows\MatematikFonksiyonlari.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\MatematikFonksiyonlari\MatematikFonksiyonlari\obj\Debug\net8.0-windows\MatematikFonksiyonlari.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\MatematikFonksiyonlari\MatematikFonksiyonlari\obj\Debug\net8.0-windows\MatematikFonksiyonlari.dll
+C:\Users\haydarb\source\repos\MatematikFonksiyonlari\MatematikFonksiyonlari\obj\Debug\net8.0-windows\refint\MatematikFonksiyonlari.dll
+C:\Users\haydarb\source\repos\MatematikFonksiyonlari\MatematikFonksiyonlari\obj\Debug\net8.0-windows\MatematikFonksiyonlari.pdb
+C:\Users\haydarb\source\repos\MatematikFonksiyonlari\MatematikFonksiyonlari\obj\Debug\net8.0-windows\MatematikFonksiyonlari.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\MatematikFonksiyonlari\MatematikFonksiyonlari\obj\Debug\net8.0-windows\ref\MatematikFonksiyonlari.dll

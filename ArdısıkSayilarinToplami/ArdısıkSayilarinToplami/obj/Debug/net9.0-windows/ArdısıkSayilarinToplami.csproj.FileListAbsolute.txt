@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\ArdısıkSayilarinToplami\ArdısıkSayilarinToplami\bin\Debug\net9.0-windows\ArdısıkSayilarinToplami.exe
+C:\Users\haydarb\source\repos\ArdısıkSayilarinToplami\ArdısıkSayilarinToplami\bin\Debug\net9.0-windows\ArdısıkSayilarinToplami.deps.json
+C:\Users\haydarb\source\repos\ArdısıkSayilarinToplami\ArdısıkSayilarinToplami\bin\Debug\net9.0-windows\ArdısıkSayilarinToplami.runtimeconfig.json
+C:\Users\haydarb\source\repos\ArdısıkSayilarinToplami\ArdısıkSayilarinToplami\bin\Debug\net9.0-windows\ArdısıkSayilarinToplami.dll
+C:\Users\haydarb\source\repos\ArdısıkSayilarinToplami\ArdısıkSayilarinToplami\bin\Debug\net9.0-windows\ArdısıkSayilarinToplami.pdb
+C:\Users\haydarb\source\repos\ArdısıkSayilarinToplami\ArdısıkSayilarinToplami\obj\Debug\net9.0-windows\ArdısıkSayilarinToplami.Form1.resources
+C:\Users\haydarb\source\repos\ArdısıkSayilarinToplami\ArdısıkSayilarinToplami\obj\Debug\net9.0-windows\ArdısıkSayilarinToplami.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\ArdısıkSayilarinToplami\ArdısıkSayilarinToplami\obj\Debug\net9.0-windows\ArdısıkSayilarinToplami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\ArdısıkSayilarinToplami\ArdısıkSayilarinToplami\obj\Debug\net9.0-windows\ArdısıkSayilarinToplami.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\ArdısıkSayilarinToplami\ArdısıkSayilarinToplami\obj\Debug\net9.0-windows\ArdısıkSayilarinToplami.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\ArdısıkSayilarinToplami\ArdısıkSayilarinToplami\obj\Debug\net9.0-windows\ArdısıkSayilarinToplami.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\ArdısıkSayilarinToplami\ArdısıkSayilarinToplami\obj\Debug\net9.0-windows\ArdısıkSayilarinToplami.dll
+C:\Users\haydarb\source\repos\ArdısıkSayilarinToplami\ArdısıkSayilarinToplami\obj\Debug\net9.0-windows\refint\ArdısıkSayilarinToplami.dll
+C:\Users\haydarb\source\repos\ArdısıkSayilarinToplami\ArdısıkSayilarinToplami\obj\Debug\net9.0-windows\ArdısıkSayilarinToplami.pdb
+C:\Users\haydarb\source\repos\ArdısıkSayilarinToplami\ArdısıkSayilarinToplami\obj\Debug\net9.0-windows\ArdısıkSayilarinToplami.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\ArdısıkSayilarinToplami\ArdısıkSayilarinToplami\obj\Debug\net9.0-windows\ref\ArdısıkSayilarinToplami.dll

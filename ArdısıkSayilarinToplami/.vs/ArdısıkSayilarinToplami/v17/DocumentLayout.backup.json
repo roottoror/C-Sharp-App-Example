@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haydarb\\source\\repos\\Ard\u0131s\u0131kSayilarinToplami\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5516C77-D54D-4C04-859A-869DC4F8EE3E}|Ard\u0131s\u0131kSayilarinToplami\\Ard\u0131s\u0131kSayilarinToplami.csproj|c:\\users\\haydarb\\source\\repos\\ard\u0131s\u0131ksayilarintoplami\\ard\u0131s\u0131ksayilarintoplami\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5516C77-D54D-4C04-859A-869DC4F8EE3E}|Ard\u0131s\u0131kSayilarinToplami\\Ard\u0131s\u0131kSayilarinToplami.csproj|solutionrelative:ard\u0131s\u0131ksayilarintoplami\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5516C77-D54D-4C04-859A-869DC4F8EE3E}|Ard\u0131s\u0131kSayilarinToplami\\Ard\u0131s\u0131kSayilarinToplami.csproj|c:\\users\\haydarb\\source\\repos\\ard\u0131s\u0131ksayilarintoplami\\ard\u0131s\u0131ksayilarintoplami\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5516C77-D54D-4C04-859A-869DC4F8EE3E}|Ard\u0131s\u0131kSayilarinToplami\\Ard\u0131s\u0131kSayilarinToplami.csproj|solutionrelative:ard\u0131s\u0131ksayilarintoplami\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\haydarb\\source\\repos\\Ard\u0131s\u0131kSayilarinToplami\\Ard\u0131s\u0131kSayilarinToplami\\Form1.cs",
+              "RelativeDocumentMoniker": "Ard\u0131s\u0131kSayilarinToplami\\Form1.cs",
+              "ToolTip": "C:\\Users\\haydarb\\source\\repos\\Ard\u0131s\u0131kSayilarinToplami\\Ard\u0131s\u0131kSayilarinToplami\\Form1.cs",
+              "RelativeToolTip": "Ard\u0131s\u0131kSayilarinToplami\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:02:55.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\haydarb\\source\\repos\\Ard\u0131s\u0131kSayilarinToplami\\Ard\u0131s\u0131kSayilarinToplami\\Form1.cs",
+              "RelativeDocumentMoniker": "Ard\u0131s\u0131kSayilarinToplami\\Form1.cs",
+              "ToolTip": "C:\\Users\\haydarb\\source\\repos\\Ard\u0131s\u0131kSayilarinToplami\\Ard\u0131s\u0131kSayilarinToplami\\Form1.cs [Design]",
+              "RelativeToolTip": "Ard\u0131s\u0131kSayilarinToplami\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:02:13.138Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

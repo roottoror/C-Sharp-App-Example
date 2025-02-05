@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\bin\Debug\net8.0-windows\SayisalLotoUygulamasi.exe
+C:\Users\haydarb\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\bin\Debug\net8.0-windows\SayisalLotoUygulamasi.deps.json
+C:\Users\haydarb\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\bin\Debug\net8.0-windows\SayisalLotoUygulamasi.runtimeconfig.json
+C:\Users\haydarb\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\bin\Debug\net8.0-windows\SayisalLotoUygulamasi.dll
+C:\Users\haydarb\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\bin\Debug\net8.0-windows\SayisalLotoUygulamasi.pdb
+C:\Users\haydarb\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\net8.0-windows\SayisalLotoUygulamasi.Form1.resources
+C:\Users\haydarb\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\net8.0-windows\SayisalLotoUygulamasi.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\net8.0-windows\SayisalLotoUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\net8.0-windows\SayisalLotoUygulamasi.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\net8.0-windows\SayisalLotoUygulamasi.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\net8.0-windows\SayisalLotoUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\net8.0-windows\SayisalLotoUygulamasi.dll
+C:\Users\haydarb\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\net8.0-windows\refint\SayisalLotoUygulamasi.dll
+C:\Users\haydarb\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\net8.0-windows\SayisalLotoUygulamasi.pdb
+C:\Users\haydarb\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\net8.0-windows\SayisalLotoUygulamasi.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\SayisalLotoUygulamasi\SayisalLotoUygulamasi\obj\Debug\net8.0-windows\ref\SayisalLotoUygulamasi.dll

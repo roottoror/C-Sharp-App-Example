@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\SwitchCaseYapisi\SwitchCaseYapisi\bin\Debug\net9.0-windows\SwitchCaseYapisi.exe
+C:\Users\haydarb\source\repos\SwitchCaseYapisi\SwitchCaseYapisi\bin\Debug\net9.0-windows\SwitchCaseYapisi.deps.json
+C:\Users\haydarb\source\repos\SwitchCaseYapisi\SwitchCaseYapisi\bin\Debug\net9.0-windows\SwitchCaseYapisi.runtimeconfig.json
+C:\Users\haydarb\source\repos\SwitchCaseYapisi\SwitchCaseYapisi\bin\Debug\net9.0-windows\SwitchCaseYapisi.dll
+C:\Users\haydarb\source\repos\SwitchCaseYapisi\SwitchCaseYapisi\bin\Debug\net9.0-windows\SwitchCaseYapisi.pdb
+C:\Users\haydarb\source\repos\SwitchCaseYapisi\SwitchCaseYapisi\obj\Debug\net9.0-windows\SwitchCaseYapisi.Form1.resources
+C:\Users\haydarb\source\repos\SwitchCaseYapisi\SwitchCaseYapisi\obj\Debug\net9.0-windows\SwitchCaseYapisi.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\SwitchCaseYapisi\SwitchCaseYapisi\obj\Debug\net9.0-windows\SwitchCaseYapisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\SwitchCaseYapisi\SwitchCaseYapisi\obj\Debug\net9.0-windows\SwitchCaseYapisi.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\SwitchCaseYapisi\SwitchCaseYapisi\obj\Debug\net9.0-windows\SwitchCaseYapisi.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\SwitchCaseYapisi\SwitchCaseYapisi\obj\Debug\net9.0-windows\SwitchCaseYapisi.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\SwitchCaseYapisi\SwitchCaseYapisi\obj\Debug\net9.0-windows\SwitchCaseYapisi.dll
+C:\Users\haydarb\source\repos\SwitchCaseYapisi\SwitchCaseYapisi\obj\Debug\net9.0-windows\refint\SwitchCaseYapisi.dll
+C:\Users\haydarb\source\repos\SwitchCaseYapisi\SwitchCaseYapisi\obj\Debug\net9.0-windows\SwitchCaseYapisi.pdb
+C:\Users\haydarb\source\repos\SwitchCaseYapisi\SwitchCaseYapisi\obj\Debug\net9.0-windows\SwitchCaseYapisi.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\SwitchCaseYapisi\SwitchCaseYapisi\obj\Debug\net9.0-windows\ref\SwitchCaseYapisi.dll

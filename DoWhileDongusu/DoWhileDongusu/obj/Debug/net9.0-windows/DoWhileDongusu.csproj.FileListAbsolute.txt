@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\DoWhileDongusu\DoWhileDongusu\bin\Debug\net9.0-windows\DoWhileDongusu.exe
+C:\Users\haydarb\source\repos\DoWhileDongusu\DoWhileDongusu\bin\Debug\net9.0-windows\DoWhileDongusu.deps.json
+C:\Users\haydarb\source\repos\DoWhileDongusu\DoWhileDongusu\bin\Debug\net9.0-windows\DoWhileDongusu.runtimeconfig.json
+C:\Users\haydarb\source\repos\DoWhileDongusu\DoWhileDongusu\bin\Debug\net9.0-windows\DoWhileDongusu.dll
+C:\Users\haydarb\source\repos\DoWhileDongusu\DoWhileDongusu\bin\Debug\net9.0-windows\DoWhileDongusu.pdb
+C:\Users\haydarb\source\repos\DoWhileDongusu\DoWhileDongusu\obj\Debug\net9.0-windows\DoWhileDongusu.Form1.resources
+C:\Users\haydarb\source\repos\DoWhileDongusu\DoWhileDongusu\obj\Debug\net9.0-windows\DoWhileDongusu.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\DoWhileDongusu\DoWhileDongusu\obj\Debug\net9.0-windows\DoWhileDongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\DoWhileDongusu\DoWhileDongusu\obj\Debug\net9.0-windows\DoWhileDongusu.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\DoWhileDongusu\DoWhileDongusu\obj\Debug\net9.0-windows\DoWhileDongusu.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\DoWhileDongusu\DoWhileDongusu\obj\Debug\net9.0-windows\DoWhileDongusu.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\DoWhileDongusu\DoWhileDongusu\obj\Debug\net9.0-windows\DoWhileDongusu.dll
+C:\Users\haydarb\source\repos\DoWhileDongusu\DoWhileDongusu\obj\Debug\net9.0-windows\refint\DoWhileDongusu.dll
+C:\Users\haydarb\source\repos\DoWhileDongusu\DoWhileDongusu\obj\Debug\net9.0-windows\DoWhileDongusu.pdb
+C:\Users\haydarb\source\repos\DoWhileDongusu\DoWhileDongusu\obj\Debug\net9.0-windows\DoWhileDongusu.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\DoWhileDongusu\DoWhileDongusu\obj\Debug\net9.0-windows\ref\DoWhileDongusu.dll

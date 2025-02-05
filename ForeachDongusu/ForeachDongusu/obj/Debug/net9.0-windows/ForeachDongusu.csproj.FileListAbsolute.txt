@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\ForeachDongusu\ForeachDongusu\bin\Debug\net9.0-windows\ForeachDongusu.exe
+C:\Users\haydarb\source\repos\ForeachDongusu\ForeachDongusu\bin\Debug\net9.0-windows\ForeachDongusu.deps.json
+C:\Users\haydarb\source\repos\ForeachDongusu\ForeachDongusu\bin\Debug\net9.0-windows\ForeachDongusu.runtimeconfig.json
+C:\Users\haydarb\source\repos\ForeachDongusu\ForeachDongusu\bin\Debug\net9.0-windows\ForeachDongusu.dll
+C:\Users\haydarb\source\repos\ForeachDongusu\ForeachDongusu\bin\Debug\net9.0-windows\ForeachDongusu.pdb
+C:\Users\haydarb\source\repos\ForeachDongusu\ForeachDongusu\obj\Debug\net9.0-windows\ForeachDongusu.Form1.resources
+C:\Users\haydarb\source\repos\ForeachDongusu\ForeachDongusu\obj\Debug\net9.0-windows\ForeachDongusu.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\ForeachDongusu\ForeachDongusu\obj\Debug\net9.0-windows\ForeachDongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\ForeachDongusu\ForeachDongusu\obj\Debug\net9.0-windows\ForeachDongusu.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\ForeachDongusu\ForeachDongusu\obj\Debug\net9.0-windows\ForeachDongusu.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\ForeachDongusu\ForeachDongusu\obj\Debug\net9.0-windows\ForeachDongusu.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\ForeachDongusu\ForeachDongusu\obj\Debug\net9.0-windows\ForeachDongusu.dll
+C:\Users\haydarb\source\repos\ForeachDongusu\ForeachDongusu\obj\Debug\net9.0-windows\refint\ForeachDongusu.dll
+C:\Users\haydarb\source\repos\ForeachDongusu\ForeachDongusu\obj\Debug\net9.0-windows\ForeachDongusu.pdb
+C:\Users\haydarb\source\repos\ForeachDongusu\ForeachDongusu\obj\Debug\net9.0-windows\ForeachDongusu.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\ForeachDongusu\ForeachDongusu\obj\Debug\net9.0-windows\ref\ForeachDongusu.dll

@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\Diziler\Diziler\bin\Debug\net9.0-windows\Diziler.exe
+C:\Users\haydarb\source\repos\Diziler\Diziler\bin\Debug\net9.0-windows\Diziler.deps.json
+C:\Users\haydarb\source\repos\Diziler\Diziler\bin\Debug\net9.0-windows\Diziler.runtimeconfig.json
+C:\Users\haydarb\source\repos\Diziler\Diziler\bin\Debug\net9.0-windows\Diziler.dll
+C:\Users\haydarb\source\repos\Diziler\Diziler\bin\Debug\net9.0-windows\Diziler.pdb
+C:\Users\haydarb\source\repos\Diziler\Diziler\obj\Debug\net9.0-windows\Diziler.Form1.resources
+C:\Users\haydarb\source\repos\Diziler\Diziler\obj\Debug\net9.0-windows\Diziler.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\Diziler\Diziler\obj\Debug\net9.0-windows\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\Diziler\Diziler\obj\Debug\net9.0-windows\Diziler.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\Diziler\Diziler\obj\Debug\net9.0-windows\Diziler.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\Diziler\Diziler\obj\Debug\net9.0-windows\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\Diziler\Diziler\obj\Debug\net9.0-windows\Diziler.dll
+C:\Users\haydarb\source\repos\Diziler\Diziler\obj\Debug\net9.0-windows\refint\Diziler.dll
+C:\Users\haydarb\source\repos\Diziler\Diziler\obj\Debug\net9.0-windows\Diziler.pdb
+C:\Users\haydarb\source\repos\Diziler\Diziler\obj\Debug\net9.0-windows\Diziler.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\Diziler\Diziler\obj\Debug\net9.0-windows\ref\Diziler.dll

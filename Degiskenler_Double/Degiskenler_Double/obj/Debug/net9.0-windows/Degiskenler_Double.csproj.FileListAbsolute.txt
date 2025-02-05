@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\Degiskenler_Double\Degiskenler_Double\bin\Debug\net9.0-windows\Degiskenler_Double.exe
+C:\Users\haydarb\source\repos\Degiskenler_Double\Degiskenler_Double\bin\Debug\net9.0-windows\Degiskenler_Double.deps.json
+C:\Users\haydarb\source\repos\Degiskenler_Double\Degiskenler_Double\bin\Debug\net9.0-windows\Degiskenler_Double.runtimeconfig.json
+C:\Users\haydarb\source\repos\Degiskenler_Double\Degiskenler_Double\bin\Debug\net9.0-windows\Degiskenler_Double.dll
+C:\Users\haydarb\source\repos\Degiskenler_Double\Degiskenler_Double\bin\Debug\net9.0-windows\Degiskenler_Double.pdb
+C:\Users\haydarb\source\repos\Degiskenler_Double\Degiskenler_Double\obj\Debug\net9.0-windows\Degiskenler_Double.Form1.resources
+C:\Users\haydarb\source\repos\Degiskenler_Double\Degiskenler_Double\obj\Debug\net9.0-windows\Degiskenler_Double.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\Degiskenler_Double\Degiskenler_Double\obj\Debug\net9.0-windows\Degiskenler_Double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\Degiskenler_Double\Degiskenler_Double\obj\Debug\net9.0-windows\Degiskenler_Double.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\Degiskenler_Double\Degiskenler_Double\obj\Debug\net9.0-windows\Degiskenler_Double.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\Degiskenler_Double\Degiskenler_Double\obj\Debug\net9.0-windows\Degiskenler_Double.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\Degiskenler_Double\Degiskenler_Double\obj\Debug\net9.0-windows\Degiskenler_Double.dll
+C:\Users\haydarb\source\repos\Degiskenler_Double\Degiskenler_Double\obj\Debug\net9.0-windows\refint\Degiskenler_Double.dll
+C:\Users\haydarb\source\repos\Degiskenler_Double\Degiskenler_Double\obj\Debug\net9.0-windows\Degiskenler_Double.pdb
+C:\Users\haydarb\source\repos\Degiskenler_Double\Degiskenler_Double\obj\Debug\net9.0-windows\Degiskenler_Double.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\Degiskenler_Double\Degiskenler_Double\obj\Debug\net9.0-windows\ref\Degiskenler_Double.dll

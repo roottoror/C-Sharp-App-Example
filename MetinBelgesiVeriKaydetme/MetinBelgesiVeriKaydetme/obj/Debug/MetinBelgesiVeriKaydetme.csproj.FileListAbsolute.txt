@@ -1,0 +1,10 @@
+C:\Users\haydarb\source\repos\MetinBelgesiVeriKaydetme\MetinBelgesiVeriKaydetme\bin\Debug\MetinBelgesiVeriKaydetme.exe.config
+C:\Users\haydarb\source\repos\MetinBelgesiVeriKaydetme\MetinBelgesiVeriKaydetme\bin\Debug\MetinBelgesiVeriKaydetme.exe
+C:\Users\haydarb\source\repos\MetinBelgesiVeriKaydetme\MetinBelgesiVeriKaydetme\bin\Debug\MetinBelgesiVeriKaydetme.pdb
+C:\Users\haydarb\source\repos\MetinBelgesiVeriKaydetme\MetinBelgesiVeriKaydetme\obj\Debug\MetinBelgesiVeriKaydetme.csproj.AssemblyReference.cache
+C:\Users\haydarb\source\repos\MetinBelgesiVeriKaydetme\MetinBelgesiVeriKaydetme\obj\Debug\MetinBelgesiVeriKaydetme.Form1.resources
+C:\Users\haydarb\source\repos\MetinBelgesiVeriKaydetme\MetinBelgesiVeriKaydetme\obj\Debug\MetinBelgesiVeriKaydetme.Properties.Resources.resources
+C:\Users\haydarb\source\repos\MetinBelgesiVeriKaydetme\MetinBelgesiVeriKaydetme\obj\Debug\MetinBelgesiVeriKaydetme.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\MetinBelgesiVeriKaydetme\MetinBelgesiVeriKaydetme\obj\Debug\MetinBelgesiVeriKaydetme.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\MetinBelgesiVeriKaydetme\MetinBelgesiVeriKaydetme\obj\Debug\MetinBelgesiVeriKaydetme.exe
+C:\Users\haydarb\source\repos\MetinBelgesiVeriKaydetme\MetinBelgesiVeriKaydetme\obj\Debug\MetinBelgesiVeriKaydetme.pdb

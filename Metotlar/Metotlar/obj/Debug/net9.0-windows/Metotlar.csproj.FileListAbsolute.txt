@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\Metotlar\Metotlar\bin\Debug\net9.0-windows\Metotlar.exe
+C:\Users\haydarb\source\repos\Metotlar\Metotlar\bin\Debug\net9.0-windows\Metotlar.deps.json
+C:\Users\haydarb\source\repos\Metotlar\Metotlar\bin\Debug\net9.0-windows\Metotlar.runtimeconfig.json
+C:\Users\haydarb\source\repos\Metotlar\Metotlar\bin\Debug\net9.0-windows\Metotlar.dll
+C:\Users\haydarb\source\repos\Metotlar\Metotlar\bin\Debug\net9.0-windows\Metotlar.pdb
+C:\Users\haydarb\source\repos\Metotlar\Metotlar\obj\Debug\net9.0-windows\Metotlar.Form1.resources
+C:\Users\haydarb\source\repos\Metotlar\Metotlar\obj\Debug\net9.0-windows\Metotlar.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\Metotlar\Metotlar\obj\Debug\net9.0-windows\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\Metotlar\Metotlar\obj\Debug\net9.0-windows\Metotlar.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\Metotlar\Metotlar\obj\Debug\net9.0-windows\Metotlar.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\Metotlar\Metotlar\obj\Debug\net9.0-windows\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\Metotlar\Metotlar\obj\Debug\net9.0-windows\Metotlar.dll
+C:\Users\haydarb\source\repos\Metotlar\Metotlar\obj\Debug\net9.0-windows\refint\Metotlar.dll
+C:\Users\haydarb\source\repos\Metotlar\Metotlar\obj\Debug\net9.0-windows\Metotlar.pdb
+C:\Users\haydarb\source\repos\Metotlar\Metotlar\obj\Debug\net9.0-windows\Metotlar.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\Metotlar\Metotlar\obj\Debug\net9.0-windows\ref\Metotlar.dll

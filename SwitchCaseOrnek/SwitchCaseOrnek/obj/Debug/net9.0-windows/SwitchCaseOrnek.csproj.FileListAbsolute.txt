@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\SwitchCaseOrnek\SwitchCaseOrnek\bin\Debug\net9.0-windows\SwitchCaseOrnek.exe
+C:\Users\haydarb\source\repos\SwitchCaseOrnek\SwitchCaseOrnek\bin\Debug\net9.0-windows\SwitchCaseOrnek.deps.json
+C:\Users\haydarb\source\repos\SwitchCaseOrnek\SwitchCaseOrnek\bin\Debug\net9.0-windows\SwitchCaseOrnek.runtimeconfig.json
+C:\Users\haydarb\source\repos\SwitchCaseOrnek\SwitchCaseOrnek\bin\Debug\net9.0-windows\SwitchCaseOrnek.dll
+C:\Users\haydarb\source\repos\SwitchCaseOrnek\SwitchCaseOrnek\bin\Debug\net9.0-windows\SwitchCaseOrnek.pdb
+C:\Users\haydarb\source\repos\SwitchCaseOrnek\SwitchCaseOrnek\obj\Debug\net9.0-windows\SwitchCaseOrnek.Form1.resources
+C:\Users\haydarb\source\repos\SwitchCaseOrnek\SwitchCaseOrnek\obj\Debug\net9.0-windows\SwitchCaseOrnek.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\SwitchCaseOrnek\SwitchCaseOrnek\obj\Debug\net9.0-windows\SwitchCaseOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\SwitchCaseOrnek\SwitchCaseOrnek\obj\Debug\net9.0-windows\SwitchCaseOrnek.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\SwitchCaseOrnek\SwitchCaseOrnek\obj\Debug\net9.0-windows\SwitchCaseOrnek.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\SwitchCaseOrnek\SwitchCaseOrnek\obj\Debug\net9.0-windows\SwitchCaseOrnek.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\SwitchCaseOrnek\SwitchCaseOrnek\obj\Debug\net9.0-windows\SwitchCaseOrnek.dll
+C:\Users\haydarb\source\repos\SwitchCaseOrnek\SwitchCaseOrnek\obj\Debug\net9.0-windows\refint\SwitchCaseOrnek.dll
+C:\Users\haydarb\source\repos\SwitchCaseOrnek\SwitchCaseOrnek\obj\Debug\net9.0-windows\SwitchCaseOrnek.pdb
+C:\Users\haydarb\source\repos\SwitchCaseOrnek\SwitchCaseOrnek\obj\Debug\net9.0-windows\SwitchCaseOrnek.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\SwitchCaseOrnek\SwitchCaseOrnek\obj\Debug\net9.0-windows\ref\SwitchCaseOrnek.dll

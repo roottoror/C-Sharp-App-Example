@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\RandomKullanimi\RandomKullanimi\bin\Debug\net8.0-windows\RandomKullanimi.exe
+C:\Users\haydarb\source\repos\RandomKullanimi\RandomKullanimi\bin\Debug\net8.0-windows\RandomKullanimi.deps.json
+C:\Users\haydarb\source\repos\RandomKullanimi\RandomKullanimi\bin\Debug\net8.0-windows\RandomKullanimi.runtimeconfig.json
+C:\Users\haydarb\source\repos\RandomKullanimi\RandomKullanimi\bin\Debug\net8.0-windows\RandomKullanimi.dll
+C:\Users\haydarb\source\repos\RandomKullanimi\RandomKullanimi\bin\Debug\net8.0-windows\RandomKullanimi.pdb
+C:\Users\haydarb\source\repos\RandomKullanimi\RandomKullanimi\obj\Debug\net8.0-windows\RandomKullanimi.Form1.resources
+C:\Users\haydarb\source\repos\RandomKullanimi\RandomKullanimi\obj\Debug\net8.0-windows\RandomKullanimi.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\RandomKullanimi\RandomKullanimi\obj\Debug\net8.0-windows\RandomKullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\RandomKullanimi\RandomKullanimi\obj\Debug\net8.0-windows\RandomKullanimi.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\RandomKullanimi\RandomKullanimi\obj\Debug\net8.0-windows\RandomKullanimi.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\RandomKullanimi\RandomKullanimi\obj\Debug\net8.0-windows\RandomKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\RandomKullanimi\RandomKullanimi\obj\Debug\net8.0-windows\RandomKullanimi.dll
+C:\Users\haydarb\source\repos\RandomKullanimi\RandomKullanimi\obj\Debug\net8.0-windows\refint\RandomKullanimi.dll
+C:\Users\haydarb\source\repos\RandomKullanimi\RandomKullanimi\obj\Debug\net8.0-windows\RandomKullanimi.pdb
+C:\Users\haydarb\source\repos\RandomKullanimi\RandomKullanimi\obj\Debug\net8.0-windows\RandomKullanimi.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\RandomKullanimi\RandomKullanimi\obj\Debug\net8.0-windows\ref\RandomKullanimi.dll

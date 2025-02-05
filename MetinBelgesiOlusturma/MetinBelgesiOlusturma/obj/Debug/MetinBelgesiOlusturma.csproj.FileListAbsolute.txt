@@ -1,0 +1,10 @@
+C:\Users\haydarb\source\repos\MetinBelgesiOlusturma\MetinBelgesiOlusturma\bin\Debug\MetinBelgesiOlusturma.exe.config
+C:\Users\haydarb\source\repos\MetinBelgesiOlusturma\MetinBelgesiOlusturma\bin\Debug\MetinBelgesiOlusturma.exe
+C:\Users\haydarb\source\repos\MetinBelgesiOlusturma\MetinBelgesiOlusturma\bin\Debug\MetinBelgesiOlusturma.pdb
+C:\Users\haydarb\source\repos\MetinBelgesiOlusturma\MetinBelgesiOlusturma\obj\Debug\MetinBelgesiOlusturma.csproj.AssemblyReference.cache
+C:\Users\haydarb\source\repos\MetinBelgesiOlusturma\MetinBelgesiOlusturma\obj\Debug\MetinBelgesiOlusturma.Form1.resources
+C:\Users\haydarb\source\repos\MetinBelgesiOlusturma\MetinBelgesiOlusturma\obj\Debug\MetinBelgesiOlusturma.Properties.Resources.resources
+C:\Users\haydarb\source\repos\MetinBelgesiOlusturma\MetinBelgesiOlusturma\obj\Debug\MetinBelgesiOlusturma.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\MetinBelgesiOlusturma\MetinBelgesiOlusturma\obj\Debug\MetinBelgesiOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\MetinBelgesiOlusturma\MetinBelgesiOlusturma\obj\Debug\MetinBelgesiOlusturma.exe
+C:\Users\haydarb\source\repos\MetinBelgesiOlusturma\MetinBelgesiOlusturma\obj\Debug\MetinBelgesiOlusturma.pdb

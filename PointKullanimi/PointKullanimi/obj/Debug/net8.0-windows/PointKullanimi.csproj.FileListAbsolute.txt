@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\PointKullanimi\PointKullanimi\bin\Debug\net8.0-windows\PointKullanimi.exe
+C:\Users\haydarb\source\repos\PointKullanimi\PointKullanimi\bin\Debug\net8.0-windows\PointKullanimi.deps.json
+C:\Users\haydarb\source\repos\PointKullanimi\PointKullanimi\bin\Debug\net8.0-windows\PointKullanimi.runtimeconfig.json
+C:\Users\haydarb\source\repos\PointKullanimi\PointKullanimi\bin\Debug\net8.0-windows\PointKullanimi.dll
+C:\Users\haydarb\source\repos\PointKullanimi\PointKullanimi\bin\Debug\net8.0-windows\PointKullanimi.pdb
+C:\Users\haydarb\source\repos\PointKullanimi\PointKullanimi\obj\Debug\net8.0-windows\PointKullanimi.Form1.resources
+C:\Users\haydarb\source\repos\PointKullanimi\PointKullanimi\obj\Debug\net8.0-windows\PointKullanimi.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\PointKullanimi\PointKullanimi\obj\Debug\net8.0-windows\PointKullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\PointKullanimi\PointKullanimi\obj\Debug\net8.0-windows\PointKullanimi.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\PointKullanimi\PointKullanimi\obj\Debug\net8.0-windows\PointKullanimi.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\PointKullanimi\PointKullanimi\obj\Debug\net8.0-windows\PointKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\PointKullanimi\PointKullanimi\obj\Debug\net8.0-windows\PointKullanimi.dll
+C:\Users\haydarb\source\repos\PointKullanimi\PointKullanimi\obj\Debug\net8.0-windows\refint\PointKullanimi.dll
+C:\Users\haydarb\source\repos\PointKullanimi\PointKullanimi\obj\Debug\net8.0-windows\PointKullanimi.pdb
+C:\Users\haydarb\source\repos\PointKullanimi\PointKullanimi\obj\Debug\net8.0-windows\PointKullanimi.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\PointKullanimi\PointKullanimi\obj\Debug\net8.0-windows\ref\PointKullanimi.dll

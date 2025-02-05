@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\Degiskenler_String\Degiskenler_String\bin\Debug\net8.0-windows\Degiskenler_String.exe
+C:\Users\haydarb\source\repos\Degiskenler_String\Degiskenler_String\bin\Debug\net8.0-windows\Degiskenler_String.deps.json
+C:\Users\haydarb\source\repos\Degiskenler_String\Degiskenler_String\bin\Debug\net8.0-windows\Degiskenler_String.runtimeconfig.json
+C:\Users\haydarb\source\repos\Degiskenler_String\Degiskenler_String\bin\Debug\net8.0-windows\Degiskenler_String.dll
+C:\Users\haydarb\source\repos\Degiskenler_String\Degiskenler_String\bin\Debug\net8.0-windows\Degiskenler_String.pdb
+C:\Users\haydarb\source\repos\Degiskenler_String\Degiskenler_String\obj\Debug\net8.0-windows\Degiskenler_String.Form1.resources
+C:\Users\haydarb\source\repos\Degiskenler_String\Degiskenler_String\obj\Debug\net8.0-windows\Degiskenler_String.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\Degiskenler_String\Degiskenler_String\obj\Debug\net8.0-windows\Degiskenler_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\Degiskenler_String\Degiskenler_String\obj\Debug\net8.0-windows\Degiskenler_String.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\Degiskenler_String\Degiskenler_String\obj\Debug\net8.0-windows\Degiskenler_String.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\Degiskenler_String\Degiskenler_String\obj\Debug\net8.0-windows\Degiskenler_String.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\Degiskenler_String\Degiskenler_String\obj\Debug\net8.0-windows\Degiskenler_String.dll
+C:\Users\haydarb\source\repos\Degiskenler_String\Degiskenler_String\obj\Debug\net8.0-windows\refint\Degiskenler_String.dll
+C:\Users\haydarb\source\repos\Degiskenler_String\Degiskenler_String\obj\Debug\net8.0-windows\Degiskenler_String.pdb
+C:\Users\haydarb\source\repos\Degiskenler_String\Degiskenler_String\obj\Debug\net8.0-windows\Degiskenler_String.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\Degiskenler_String\Degiskenler_String\obj\Debug\net8.0-windows\ref\Degiskenler_String.dll

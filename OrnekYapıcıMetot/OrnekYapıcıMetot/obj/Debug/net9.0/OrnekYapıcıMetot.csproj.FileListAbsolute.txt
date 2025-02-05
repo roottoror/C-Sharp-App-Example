@@ -1,0 +1,14 @@
+C:\Users\haydarb\source\repos\OrnekYapıcıMetot\OrnekYapıcıMetot\bin\Debug\net9.0\OrnekYapıcıMetot.exe
+C:\Users\haydarb\source\repos\OrnekYapıcıMetot\OrnekYapıcıMetot\bin\Debug\net9.0\OrnekYapıcıMetot.deps.json
+C:\Users\haydarb\source\repos\OrnekYapıcıMetot\OrnekYapıcıMetot\bin\Debug\net9.0\OrnekYapıcıMetot.runtimeconfig.json
+C:\Users\haydarb\source\repos\OrnekYapıcıMetot\OrnekYapıcıMetot\bin\Debug\net9.0\OrnekYapıcıMetot.dll
+C:\Users\haydarb\source\repos\OrnekYapıcıMetot\OrnekYapıcıMetot\bin\Debug\net9.0\OrnekYapıcıMetot.pdb
+C:\Users\haydarb\source\repos\OrnekYapıcıMetot\OrnekYapıcıMetot\obj\Debug\net9.0\OrnekYapıcıMetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\OrnekYapıcıMetot\OrnekYapıcıMetot\obj\Debug\net9.0\OrnekYapıcıMetot.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\OrnekYapıcıMetot\OrnekYapıcıMetot\obj\Debug\net9.0\OrnekYapıcıMetot.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\OrnekYapıcıMetot\OrnekYapıcıMetot\obj\Debug\net9.0\OrnekYapıcıMetot.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\OrnekYapıcıMetot\OrnekYapıcıMetot\obj\Debug\net9.0\OrnekYapıcıMetot.dll
+C:\Users\haydarb\source\repos\OrnekYapıcıMetot\OrnekYapıcıMetot\obj\Debug\net9.0\refint\OrnekYapıcıMetot.dll
+C:\Users\haydarb\source\repos\OrnekYapıcıMetot\OrnekYapıcıMetot\obj\Debug\net9.0\OrnekYapıcıMetot.pdb
+C:\Users\haydarb\source\repos\OrnekYapıcıMetot\OrnekYapıcıMetot\obj\Debug\net9.0\OrnekYapıcıMetot.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\OrnekYapıcıMetot\OrnekYapıcıMetot\obj\Debug\net9.0\ref\OrnekYapıcıMetot.dll

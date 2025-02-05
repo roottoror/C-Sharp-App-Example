@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haydarb\\source\\repos\\Not_S\u0131nav_Uygulamas\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B87901C5-7389-4D12-B3A2-0F6A87FBF6A6}|Not_S\u0131nav_Uygulamas\u0131\\Not_S\u0131nav_Uygulamas\u0131.csproj|c:\\users\\haydarb\\source\\repos\\not_s\u0131nav_uygulamas\u0131\\not_s\u0131nav_uygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87901C5-7389-4D12-B3A2-0F6A87FBF6A6}|Not_S\u0131nav_Uygulamas\u0131\\Not_S\u0131nav_Uygulamas\u0131.csproj|solutionrelative:not_s\u0131nav_uygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87901C5-7389-4D12-B3A2-0F6A87FBF6A6}|Not_S\u0131nav_Uygulamas\u0131\\Not_S\u0131nav_Uygulamas\u0131.csproj|c:\\users\\haydarb\\source\\repos\\not_s\u0131nav_uygulamas\u0131\\not_s\u0131nav_uygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B87901C5-7389-4D12-B3A2-0F6A87FBF6A6}|Not_S\u0131nav_Uygulamas\u0131\\Not_S\u0131nav_Uygulamas\u0131.csproj|solutionrelative:not_s\u0131nav_uygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\haydarb\\source\\repos\\Not_S\u0131nav_Uygulamas\u0131\\Not_S\u0131nav_Uygulamas\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "Not_S\u0131nav_Uygulamas\u0131\\Form1.cs",
+              "ToolTip": "C:\\Users\\haydarb\\source\\repos\\Not_S\u0131nav_Uygulamas\u0131\\Not_S\u0131nav_Uygulamas\u0131\\Form1.cs",
+              "RelativeToolTip": "Not_S\u0131nav_Uygulamas\u0131\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:16:48.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\haydarb\\source\\repos\\Not_S\u0131nav_Uygulamas\u0131\\Not_S\u0131nav_Uygulamas\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "Not_S\u0131nav_Uygulamas\u0131\\Form1.cs",
+              "ToolTip": "C:\\Users\\haydarb\\source\\repos\\Not_S\u0131nav_Uygulamas\u0131\\Not_S\u0131nav_Uygulamas\u0131\\Form1.cs [Design]",
+              "RelativeToolTip": "Not_S\u0131nav_Uygulamas\u0131\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:09:50.728Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

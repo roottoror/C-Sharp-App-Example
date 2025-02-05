@@ -1,0 +1,17 @@
+C:\Users\haydarb\source\repos\Ucus_Rezarvazyon_Sistemi\Ucus_Rezarvazyon_Sistemi\bin\Debug\net8.0-windows\Ucus_Rezarvazyon_Sistemi.exe
+C:\Users\haydarb\source\repos\Ucus_Rezarvazyon_Sistemi\Ucus_Rezarvazyon_Sistemi\bin\Debug\net8.0-windows\Ucus_Rezarvazyon_Sistemi.deps.json
+C:\Users\haydarb\source\repos\Ucus_Rezarvazyon_Sistemi\Ucus_Rezarvazyon_Sistemi\bin\Debug\net8.0-windows\Ucus_Rezarvazyon_Sistemi.runtimeconfig.json
+C:\Users\haydarb\source\repos\Ucus_Rezarvazyon_Sistemi\Ucus_Rezarvazyon_Sistemi\bin\Debug\net8.0-windows\Ucus_Rezarvazyon_Sistemi.dll
+C:\Users\haydarb\source\repos\Ucus_Rezarvazyon_Sistemi\Ucus_Rezarvazyon_Sistemi\bin\Debug\net8.0-windows\Ucus_Rezarvazyon_Sistemi.pdb
+C:\Users\haydarb\source\repos\Ucus_Rezarvazyon_Sistemi\Ucus_Rezarvazyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvazyon_Sistemi.Form1.resources
+C:\Users\haydarb\source\repos\Ucus_Rezarvazyon_Sistemi\Ucus_Rezarvazyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvazyon_Sistemi.Properties.Resources.resources
+C:\Users\haydarb\source\repos\Ucus_Rezarvazyon_Sistemi\Ucus_Rezarvazyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvazyon_Sistemi.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\Ucus_Rezarvazyon_Sistemi\Ucus_Rezarvazyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvazyon_Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\Ucus_Rezarvazyon_Sistemi\Ucus_Rezarvazyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvazyon_Sistemi.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\Ucus_Rezarvazyon_Sistemi\Ucus_Rezarvazyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvazyon_Sistemi.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\Ucus_Rezarvazyon_Sistemi\Ucus_Rezarvazyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvazyon_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\Ucus_Rezarvazyon_Sistemi\Ucus_Rezarvazyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvazyon_Sistemi.dll
+C:\Users\haydarb\source\repos\Ucus_Rezarvazyon_Sistemi\Ucus_Rezarvazyon_Sistemi\obj\Debug\net8.0-windows\refint\Ucus_Rezarvazyon_Sistemi.dll
+C:\Users\haydarb\source\repos\Ucus_Rezarvazyon_Sistemi\Ucus_Rezarvazyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvazyon_Sistemi.pdb
+C:\Users\haydarb\source\repos\Ucus_Rezarvazyon_Sistemi\Ucus_Rezarvazyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvazyon_Sistemi.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\Ucus_Rezarvazyon_Sistemi\Ucus_Rezarvazyon_Sistemi\obj\Debug\net8.0-windows\ref\Ucus_Rezarvazyon_Sistemi.dll

@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\Karar_Yapilari\Karar_Yapilari\bin\Debug\net9.0-windows\Karar_Yapilari.exe
+C:\Users\haydarb\source\repos\Karar_Yapilari\Karar_Yapilari\bin\Debug\net9.0-windows\Karar_Yapilari.deps.json
+C:\Users\haydarb\source\repos\Karar_Yapilari\Karar_Yapilari\bin\Debug\net9.0-windows\Karar_Yapilari.runtimeconfig.json
+C:\Users\haydarb\source\repos\Karar_Yapilari\Karar_Yapilari\bin\Debug\net9.0-windows\Karar_Yapilari.dll
+C:\Users\haydarb\source\repos\Karar_Yapilari\Karar_Yapilari\bin\Debug\net9.0-windows\Karar_Yapilari.pdb
+C:\Users\haydarb\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\net9.0-windows\Karar_Yapilari.Form1.resources
+C:\Users\haydarb\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\net9.0-windows\Karar_Yapilari.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\net9.0-windows\Karar_Yapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\net9.0-windows\Karar_Yapilari.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\net9.0-windows\Karar_Yapilari.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\net9.0-windows\Karar_Yapilari.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\net9.0-windows\Karar_Yapilari.dll
+C:\Users\haydarb\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\net9.0-windows\refint\Karar_Yapilari.dll
+C:\Users\haydarb\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\net9.0-windows\Karar_Yapilari.pdb
+C:\Users\haydarb\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\net9.0-windows\Karar_Yapilari.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\net9.0-windows\ref\Karar_Yapilari.dll

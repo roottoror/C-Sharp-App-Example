@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\Satıs_Uygulaması\Satıs_Uygulaması\bin\Debug\net9.0-windows\Satıs_Uygulaması.exe
+C:\Users\haydarb\source\repos\Satıs_Uygulaması\Satıs_Uygulaması\bin\Debug\net9.0-windows\Satıs_Uygulaması.deps.json
+C:\Users\haydarb\source\repos\Satıs_Uygulaması\Satıs_Uygulaması\bin\Debug\net9.0-windows\Satıs_Uygulaması.runtimeconfig.json
+C:\Users\haydarb\source\repos\Satıs_Uygulaması\Satıs_Uygulaması\bin\Debug\net9.0-windows\Satıs_Uygulaması.dll
+C:\Users\haydarb\source\repos\Satıs_Uygulaması\Satıs_Uygulaması\bin\Debug\net9.0-windows\Satıs_Uygulaması.pdb
+C:\Users\haydarb\source\repos\Satıs_Uygulaması\Satıs_Uygulaması\obj\Debug\net9.0-windows\Satıs_Uygulaması.Form1.resources
+C:\Users\haydarb\source\repos\Satıs_Uygulaması\Satıs_Uygulaması\obj\Debug\net9.0-windows\Satıs_Uygulaması.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\Satıs_Uygulaması\Satıs_Uygulaması\obj\Debug\net9.0-windows\Satıs_Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\Satıs_Uygulaması\Satıs_Uygulaması\obj\Debug\net9.0-windows\Satıs_Uygulaması.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\Satıs_Uygulaması\Satıs_Uygulaması\obj\Debug\net9.0-windows\Satıs_Uygulaması.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\Satıs_Uygulaması\Satıs_Uygulaması\obj\Debug\net9.0-windows\Satıs_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\Satıs_Uygulaması\Satıs_Uygulaması\obj\Debug\net9.0-windows\Satıs_Uygulaması.dll
+C:\Users\haydarb\source\repos\Satıs_Uygulaması\Satıs_Uygulaması\obj\Debug\net9.0-windows\refint\Satıs_Uygulaması.dll
+C:\Users\haydarb\source\repos\Satıs_Uygulaması\Satıs_Uygulaması\obj\Debug\net9.0-windows\Satıs_Uygulaması.pdb
+C:\Users\haydarb\source\repos\Satıs_Uygulaması\Satıs_Uygulaması\obj\Debug\net9.0-windows\Satıs_Uygulaması.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\Satıs_Uygulaması\Satıs_Uygulaması\obj\Debug\net9.0-windows\ref\Satıs_Uygulaması.dll

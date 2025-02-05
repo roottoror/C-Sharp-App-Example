@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\bin\Debug\net9.0-windows\Ogrenci_Sinav_Durumu_Hesaplama.exe
+C:\Users\haydarb\source\repos\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\bin\Debug\net9.0-windows\Ogrenci_Sinav_Durumu_Hesaplama.deps.json
+C:\Users\haydarb\source\repos\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\bin\Debug\net9.0-windows\Ogrenci_Sinav_Durumu_Hesaplama.runtimeconfig.json
+C:\Users\haydarb\source\repos\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\bin\Debug\net9.0-windows\Ogrenci_Sinav_Durumu_Hesaplama.dll
+C:\Users\haydarb\source\repos\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\bin\Debug\net9.0-windows\Ogrenci_Sinav_Durumu_Hesaplama.pdb
+C:\Users\haydarb\source\repos\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\net9.0-windows\Ogrenci_Sinav_Durumu_Hesaplama.Form1.resources
+C:\Users\haydarb\source\repos\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\net9.0-windows\Ogrenci_Sinav_Durumu_Hesaplama.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\net9.0-windows\Ogrenci_Sinav_Durumu_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\net9.0-windows\Ogrenci_Sinav_Durumu_Hesaplama.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\net9.0-windows\Ogrenci_Sinav_Durumu_Hesaplama.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\net9.0-windows\Ogrenci_Sinav_Durumu_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\net9.0-windows\Ogrenci_Sinav_Durumu_Hesaplama.dll
+C:\Users\haydarb\source\repos\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\net9.0-windows\refint\Ogrenci_Sinav_Durumu_Hesaplama.dll
+C:\Users\haydarb\source\repos\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\net9.0-windows\Ogrenci_Sinav_Durumu_Hesaplama.pdb
+C:\Users\haydarb\source\repos\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\net9.0-windows\Ogrenci_Sinav_Durumu_Hesaplama.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\net9.0-windows\ref\Ogrenci_Sinav_Durumu_Hesaplama.dll

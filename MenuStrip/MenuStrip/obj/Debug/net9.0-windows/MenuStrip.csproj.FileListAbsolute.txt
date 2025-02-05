@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\MenuStrip\MenuStrip\bin\Debug\net9.0-windows\MenuStrip.exe
+C:\Users\haydarb\source\repos\MenuStrip\MenuStrip\bin\Debug\net9.0-windows\MenuStrip.deps.json
+C:\Users\haydarb\source\repos\MenuStrip\MenuStrip\bin\Debug\net9.0-windows\MenuStrip.runtimeconfig.json
+C:\Users\haydarb\source\repos\MenuStrip\MenuStrip\bin\Debug\net9.0-windows\MenuStrip.dll
+C:\Users\haydarb\source\repos\MenuStrip\MenuStrip\bin\Debug\net9.0-windows\MenuStrip.pdb
+C:\Users\haydarb\source\repos\MenuStrip\MenuStrip\obj\Debug\net9.0-windows\MenuStrip.Form1.resources
+C:\Users\haydarb\source\repos\MenuStrip\MenuStrip\obj\Debug\net9.0-windows\MenuStrip.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\MenuStrip\MenuStrip\obj\Debug\net9.0-windows\MenuStrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\MenuStrip\MenuStrip\obj\Debug\net9.0-windows\MenuStrip.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\MenuStrip\MenuStrip\obj\Debug\net9.0-windows\MenuStrip.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\MenuStrip\MenuStrip\obj\Debug\net9.0-windows\MenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\MenuStrip\MenuStrip\obj\Debug\net9.0-windows\MenuStrip.dll
+C:\Users\haydarb\source\repos\MenuStrip\MenuStrip\obj\Debug\net9.0-windows\refint\MenuStrip.dll
+C:\Users\haydarb\source\repos\MenuStrip\MenuStrip\obj\Debug\net9.0-windows\MenuStrip.pdb
+C:\Users\haydarb\source\repos\MenuStrip\MenuStrip\obj\Debug\net9.0-windows\MenuStrip.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\MenuStrip\MenuStrip\obj\Debug\net9.0-windows\ref\MenuStrip.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haydarb\\source\\repos\\DegiskenlerDortIslem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D18AA89-7252-4481-A267-2761B2E09A9E}|DegiskenlerDortIslem\\DegiskenlerDortIslem.csproj|c:\\users\\haydarb\\source\\repos\\degiskenlerdortislem\\degiskenlerdortislem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D18AA89-7252-4481-A267-2761B2E09A9E}|DegiskenlerDortIslem\\DegiskenlerDortIslem.csproj|solutionrelative:degiskenlerdortislem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D18AA89-7252-4481-A267-2761B2E09A9E}|DegiskenlerDortIslem\\DegiskenlerDortIslem.csproj|c:\\users\\haydarb\\source\\repos\\degiskenlerdortislem\\degiskenlerdortislem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D18AA89-7252-4481-A267-2761B2E09A9E}|DegiskenlerDortIslem\\DegiskenlerDortIslem.csproj|solutionrelative:degiskenlerdortislem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\haydarb\\source\\repos\\DegiskenlerDortIslem\\DegiskenlerDortIslem\\Form1.cs",
+              "RelativeDocumentMoniker": "DegiskenlerDortIslem\\Form1.cs",
+              "ToolTip": "C:\\Users\\haydarb\\source\\repos\\DegiskenlerDortIslem\\DegiskenlerDortIslem\\Form1.cs",
+              "RelativeToolTip": "DegiskenlerDortIslem\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:07:45.141Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\haydarb\\source\\repos\\DegiskenlerDortIslem\\DegiskenlerDortIslem\\Form1.cs",
+              "RelativeDocumentMoniker": "DegiskenlerDortIslem\\Form1.cs",
+              "ToolTip": "C:\\Users\\haydarb\\source\\repos\\DegiskenlerDortIslem\\DegiskenlerDortIslem\\Form1.cs [Design]",
+              "RelativeToolTip": "DegiskenlerDortIslem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:06:10.142Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

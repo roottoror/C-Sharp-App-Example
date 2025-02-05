@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\ContextMenu\ContextMenu\bin\Debug\net8.0-windows\ContextMenu.exe
+C:\Users\haydarb\source\repos\ContextMenu\ContextMenu\bin\Debug\net8.0-windows\ContextMenu.deps.json
+C:\Users\haydarb\source\repos\ContextMenu\ContextMenu\bin\Debug\net8.0-windows\ContextMenu.runtimeconfig.json
+C:\Users\haydarb\source\repos\ContextMenu\ContextMenu\bin\Debug\net8.0-windows\ContextMenu.dll
+C:\Users\haydarb\source\repos\ContextMenu\ContextMenu\bin\Debug\net8.0-windows\ContextMenu.pdb
+C:\Users\haydarb\source\repos\ContextMenu\ContextMenu\obj\Debug\net8.0-windows\ContextMenu.Form1.resources
+C:\Users\haydarb\source\repos\ContextMenu\ContextMenu\obj\Debug\net8.0-windows\ContextMenu.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\ContextMenu\ContextMenu\obj\Debug\net8.0-windows\ContextMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\ContextMenu\ContextMenu\obj\Debug\net8.0-windows\ContextMenu.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\ContextMenu\ContextMenu\obj\Debug\net8.0-windows\ContextMenu.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\ContextMenu\ContextMenu\obj\Debug\net8.0-windows\ContextMenu.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\ContextMenu\ContextMenu\obj\Debug\net8.0-windows\ContextMenu.dll
+C:\Users\haydarb\source\repos\ContextMenu\ContextMenu\obj\Debug\net8.0-windows\refint\ContextMenu.dll
+C:\Users\haydarb\source\repos\ContextMenu\ContextMenu\obj\Debug\net8.0-windows\ContextMenu.pdb
+C:\Users\haydarb\source\repos\ContextMenu\ContextMenu\obj\Debug\net8.0-windows\ContextMenu.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\ContextMenu\ContextMenu\obj\Debug\net8.0-windows\ref\ContextMenu.dll

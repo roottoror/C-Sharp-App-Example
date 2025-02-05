@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\Timer\Timer\bin\Debug\net9.0-windows\Timer.exe
+C:\Users\haydarb\source\repos\Timer\Timer\bin\Debug\net9.0-windows\Timer.deps.json
+C:\Users\haydarb\source\repos\Timer\Timer\bin\Debug\net9.0-windows\Timer.runtimeconfig.json
+C:\Users\haydarb\source\repos\Timer\Timer\bin\Debug\net9.0-windows\Timer.dll
+C:\Users\haydarb\source\repos\Timer\Timer\bin\Debug\net9.0-windows\Timer.pdb
+C:\Users\haydarb\source\repos\Timer\Timer\obj\Debug\net9.0-windows\Timer.Form1.resources
+C:\Users\haydarb\source\repos\Timer\Timer\obj\Debug\net9.0-windows\Timer.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\Timer\Timer\obj\Debug\net9.0-windows\Timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\Timer\Timer\obj\Debug\net9.0-windows\Timer.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\Timer\Timer\obj\Debug\net9.0-windows\Timer.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\Timer\Timer\obj\Debug\net9.0-windows\Timer.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\Timer\Timer\obj\Debug\net9.0-windows\Timer.dll
+C:\Users\haydarb\source\repos\Timer\Timer\obj\Debug\net9.0-windows\refint\Timer.dll
+C:\Users\haydarb\source\repos\Timer\Timer\obj\Debug\net9.0-windows\Timer.pdb
+C:\Users\haydarb\source\repos\Timer\Timer\obj\Debug\net9.0-windows\Timer.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\Timer\Timer\obj\Debug\net9.0-windows\ref\Timer.dll

@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\DegiskenlerDortIslem\DegiskenlerDortIslem\bin\Debug\net9.0-windows\DegiskenlerDortIslem.exe
+C:\Users\haydarb\source\repos\DegiskenlerDortIslem\DegiskenlerDortIslem\bin\Debug\net9.0-windows\DegiskenlerDortIslem.deps.json
+C:\Users\haydarb\source\repos\DegiskenlerDortIslem\DegiskenlerDortIslem\bin\Debug\net9.0-windows\DegiskenlerDortIslem.runtimeconfig.json
+C:\Users\haydarb\source\repos\DegiskenlerDortIslem\DegiskenlerDortIslem\bin\Debug\net9.0-windows\DegiskenlerDortIslem.dll
+C:\Users\haydarb\source\repos\DegiskenlerDortIslem\DegiskenlerDortIslem\bin\Debug\net9.0-windows\DegiskenlerDortIslem.pdb
+C:\Users\haydarb\source\repos\DegiskenlerDortIslem\DegiskenlerDortIslem\obj\Debug\net9.0-windows\DegiskenlerDortIslem.Form1.resources
+C:\Users\haydarb\source\repos\DegiskenlerDortIslem\DegiskenlerDortIslem\obj\Debug\net9.0-windows\DegiskenlerDortIslem.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\DegiskenlerDortIslem\DegiskenlerDortIslem\obj\Debug\net9.0-windows\DegiskenlerDortIslem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\DegiskenlerDortIslem\DegiskenlerDortIslem\obj\Debug\net9.0-windows\DegiskenlerDortIslem.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\DegiskenlerDortIslem\DegiskenlerDortIslem\obj\Debug\net9.0-windows\DegiskenlerDortIslem.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\DegiskenlerDortIslem\DegiskenlerDortIslem\obj\Debug\net9.0-windows\DegiskenlerDortIslem.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\DegiskenlerDortIslem\DegiskenlerDortIslem\obj\Debug\net9.0-windows\DegiskenlerDortIslem.dll
+C:\Users\haydarb\source\repos\DegiskenlerDortIslem\DegiskenlerDortIslem\obj\Debug\net9.0-windows\refint\DegiskenlerDortIslem.dll
+C:\Users\haydarb\source\repos\DegiskenlerDortIslem\DegiskenlerDortIslem\obj\Debug\net9.0-windows\DegiskenlerDortIslem.pdb
+C:\Users\haydarb\source\repos\DegiskenlerDortIslem\DegiskenlerDortIslem\obj\Debug\net9.0-windows\DegiskenlerDortIslem.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\DegiskenlerDortIslem\DegiskenlerDortIslem\obj\Debug\net9.0-windows\ref\DegiskenlerDortIslem.dll

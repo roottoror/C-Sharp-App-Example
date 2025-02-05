@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\Return_Metot\Return_Metot\bin\Debug\net9.0-windows\Return_Metot.exe
+C:\Users\haydarb\source\repos\Return_Metot\Return_Metot\bin\Debug\net9.0-windows\Return_Metot.deps.json
+C:\Users\haydarb\source\repos\Return_Metot\Return_Metot\bin\Debug\net9.0-windows\Return_Metot.runtimeconfig.json
+C:\Users\haydarb\source\repos\Return_Metot\Return_Metot\bin\Debug\net9.0-windows\Return_Metot.dll
+C:\Users\haydarb\source\repos\Return_Metot\Return_Metot\bin\Debug\net9.0-windows\Return_Metot.pdb
+C:\Users\haydarb\source\repos\Return_Metot\Return_Metot\obj\Debug\net9.0-windows\Return_Metot.Form1.resources
+C:\Users\haydarb\source\repos\Return_Metot\Return_Metot\obj\Debug\net9.0-windows\Return_Metot.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\Return_Metot\Return_Metot\obj\Debug\net9.0-windows\Return_Metot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\Return_Metot\Return_Metot\obj\Debug\net9.0-windows\Return_Metot.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\Return_Metot\Return_Metot\obj\Debug\net9.0-windows\Return_Metot.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\Return_Metot\Return_Metot\obj\Debug\net9.0-windows\Return_Metot.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\Return_Metot\Return_Metot\obj\Debug\net9.0-windows\Return_Metot.dll
+C:\Users\haydarb\source\repos\Return_Metot\Return_Metot\obj\Debug\net9.0-windows\refint\Return_Metot.dll
+C:\Users\haydarb\source\repos\Return_Metot\Return_Metot\obj\Debug\net9.0-windows\Return_Metot.pdb
+C:\Users\haydarb\source\repos\Return_Metot\Return_Metot\obj\Debug\net9.0-windows\Return_Metot.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\Return_Metot\Return_Metot\obj\Debug\net9.0-windows\ref\Return_Metot.dll

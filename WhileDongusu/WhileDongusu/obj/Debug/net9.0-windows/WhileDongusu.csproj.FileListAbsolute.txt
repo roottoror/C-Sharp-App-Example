@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\WhileDongusu\WhileDongusu\bin\Debug\net9.0-windows\WhileDongusu.exe
+C:\Users\haydarb\source\repos\WhileDongusu\WhileDongusu\bin\Debug\net9.0-windows\WhileDongusu.deps.json
+C:\Users\haydarb\source\repos\WhileDongusu\WhileDongusu\bin\Debug\net9.0-windows\WhileDongusu.runtimeconfig.json
+C:\Users\haydarb\source\repos\WhileDongusu\WhileDongusu\bin\Debug\net9.0-windows\WhileDongusu.dll
+C:\Users\haydarb\source\repos\WhileDongusu\WhileDongusu\bin\Debug\net9.0-windows\WhileDongusu.pdb
+C:\Users\haydarb\source\repos\WhileDongusu\WhileDongusu\obj\Debug\net9.0-windows\WhileDongusu.Form1.resources
+C:\Users\haydarb\source\repos\WhileDongusu\WhileDongusu\obj\Debug\net9.0-windows\WhileDongusu.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\WhileDongusu\WhileDongusu\obj\Debug\net9.0-windows\WhileDongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\WhileDongusu\WhileDongusu\obj\Debug\net9.0-windows\WhileDongusu.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\WhileDongusu\WhileDongusu\obj\Debug\net9.0-windows\WhileDongusu.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\WhileDongusu\WhileDongusu\obj\Debug\net9.0-windows\WhileDongusu.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\WhileDongusu\WhileDongusu\obj\Debug\net9.0-windows\WhileDongusu.dll
+C:\Users\haydarb\source\repos\WhileDongusu\WhileDongusu\obj\Debug\net9.0-windows\refint\WhileDongusu.dll
+C:\Users\haydarb\source\repos\WhileDongusu\WhileDongusu\obj\Debug\net9.0-windows\WhileDongusu.pdb
+C:\Users\haydarb\source\repos\WhileDongusu\WhileDongusu\obj\Debug\net9.0-windows\WhileDongusu.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\WhileDongusu\WhileDongusu\obj\Debug\net9.0-windows\ref\WhileDongusu.dll

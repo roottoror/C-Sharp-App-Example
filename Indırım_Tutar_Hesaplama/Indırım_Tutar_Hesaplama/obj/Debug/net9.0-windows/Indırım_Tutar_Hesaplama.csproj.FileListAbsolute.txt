@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\Indırım_Tutar_Hesaplama\Indırım_Tutar_Hesaplama\bin\Debug\net9.0-windows\Indırım_Tutar_Hesaplama.exe
+C:\Users\haydarb\source\repos\Indırım_Tutar_Hesaplama\Indırım_Tutar_Hesaplama\bin\Debug\net9.0-windows\Indırım_Tutar_Hesaplama.deps.json
+C:\Users\haydarb\source\repos\Indırım_Tutar_Hesaplama\Indırım_Tutar_Hesaplama\bin\Debug\net9.0-windows\Indırım_Tutar_Hesaplama.runtimeconfig.json
+C:\Users\haydarb\source\repos\Indırım_Tutar_Hesaplama\Indırım_Tutar_Hesaplama\bin\Debug\net9.0-windows\Indırım_Tutar_Hesaplama.dll
+C:\Users\haydarb\source\repos\Indırım_Tutar_Hesaplama\Indırım_Tutar_Hesaplama\bin\Debug\net9.0-windows\Indırım_Tutar_Hesaplama.pdb
+C:\Users\haydarb\source\repos\Indırım_Tutar_Hesaplama\Indırım_Tutar_Hesaplama\obj\Debug\net9.0-windows\Indırım_Tutar_Hesaplama.Form1.resources
+C:\Users\haydarb\source\repos\Indırım_Tutar_Hesaplama\Indırım_Tutar_Hesaplama\obj\Debug\net9.0-windows\Indırım_Tutar_Hesaplama.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\Indırım_Tutar_Hesaplama\Indırım_Tutar_Hesaplama\obj\Debug\net9.0-windows\Indırım_Tutar_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\Indırım_Tutar_Hesaplama\Indırım_Tutar_Hesaplama\obj\Debug\net9.0-windows\Indırım_Tutar_Hesaplama.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\Indırım_Tutar_Hesaplama\Indırım_Tutar_Hesaplama\obj\Debug\net9.0-windows\Indırım_Tutar_Hesaplama.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\Indırım_Tutar_Hesaplama\Indırım_Tutar_Hesaplama\obj\Debug\net9.0-windows\Indırım_Tutar_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\Indırım_Tutar_Hesaplama\Indırım_Tutar_Hesaplama\obj\Debug\net9.0-windows\Indırım_Tutar_Hesaplama.dll
+C:\Users\haydarb\source\repos\Indırım_Tutar_Hesaplama\Indırım_Tutar_Hesaplama\obj\Debug\net9.0-windows\refint\Indırım_Tutar_Hesaplama.dll
+C:\Users\haydarb\source\repos\Indırım_Tutar_Hesaplama\Indırım_Tutar_Hesaplama\obj\Debug\net9.0-windows\Indırım_Tutar_Hesaplama.pdb
+C:\Users\haydarb\source\repos\Indırım_Tutar_Hesaplama\Indırım_Tutar_Hesaplama\obj\Debug\net9.0-windows\Indırım_Tutar_Hesaplama.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\Indırım_Tutar_Hesaplama\Indırım_Tutar_Hesaplama\obj\Debug\net9.0-windows\ref\Indırım_Tutar_Hesaplama.dll

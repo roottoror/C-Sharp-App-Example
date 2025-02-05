@@ -1,0 +1,10 @@
+C:\Users\haydarb\source\repos\DosyaKlasor\DosyaKlasor\bin\Debug\DosyaKlasor.exe.config
+C:\Users\haydarb\source\repos\DosyaKlasor\DosyaKlasor\bin\Debug\DosyaKlasor.exe
+C:\Users\haydarb\source\repos\DosyaKlasor\DosyaKlasor\bin\Debug\DosyaKlasor.pdb
+C:\Users\haydarb\source\repos\DosyaKlasor\DosyaKlasor\obj\Debug\DosyaKlasor.csproj.AssemblyReference.cache
+C:\Users\haydarb\source\repos\DosyaKlasor\DosyaKlasor\obj\Debug\DosyaKlasor.Form1.resources
+C:\Users\haydarb\source\repos\DosyaKlasor\DosyaKlasor\obj\Debug\DosyaKlasor.Properties.Resources.resources
+C:\Users\haydarb\source\repos\DosyaKlasor\DosyaKlasor\obj\Debug\DosyaKlasor.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\DosyaKlasor\DosyaKlasor\obj\Debug\DosyaKlasor.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\DosyaKlasor\DosyaKlasor\obj\Debug\DosyaKlasor.exe
+C:\Users\haydarb\source\repos\DosyaKlasor\DosyaKlasor\obj\Debug\DosyaKlasor.pdb

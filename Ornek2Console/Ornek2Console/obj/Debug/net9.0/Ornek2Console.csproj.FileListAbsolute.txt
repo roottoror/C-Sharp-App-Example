@@ -1,0 +1,14 @@
+C:\Users\haydarb\source\repos\Ornek2Console\Ornek2Console\bin\Debug\net9.0\Ornek2Console.exe
+C:\Users\haydarb\source\repos\Ornek2Console\Ornek2Console\bin\Debug\net9.0\Ornek2Console.deps.json
+C:\Users\haydarb\source\repos\Ornek2Console\Ornek2Console\bin\Debug\net9.0\Ornek2Console.runtimeconfig.json
+C:\Users\haydarb\source\repos\Ornek2Console\Ornek2Console\bin\Debug\net9.0\Ornek2Console.dll
+C:\Users\haydarb\source\repos\Ornek2Console\Ornek2Console\bin\Debug\net9.0\Ornek2Console.pdb
+C:\Users\haydarb\source\repos\Ornek2Console\Ornek2Console\obj\Debug\net9.0\Ornek2Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\Ornek2Console\Ornek2Console\obj\Debug\net9.0\Ornek2Console.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\Ornek2Console\Ornek2Console\obj\Debug\net9.0\Ornek2Console.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\Ornek2Console\Ornek2Console\obj\Debug\net9.0\Ornek2Console.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\Ornek2Console\Ornek2Console\obj\Debug\net9.0\Ornek2Console.dll
+C:\Users\haydarb\source\repos\Ornek2Console\Ornek2Console\obj\Debug\net9.0\refint\Ornek2Console.dll
+C:\Users\haydarb\source\repos\Ornek2Console\Ornek2Console\obj\Debug\net9.0\Ornek2Console.pdb
+C:\Users\haydarb\source\repos\Ornek2Console\Ornek2Console\obj\Debug\net9.0\Ornek2Console.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\Ornek2Console\Ornek2Console\obj\Debug\net9.0\ref\Ornek2Console.dll

@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\OrnekForm\OrnekForm\bin\Debug\net8.0-windows\OrnekForm.exe
+C:\Users\haydarb\source\repos\OrnekForm\OrnekForm\bin\Debug\net8.0-windows\OrnekForm.deps.json
+C:\Users\haydarb\source\repos\OrnekForm\OrnekForm\bin\Debug\net8.0-windows\OrnekForm.runtimeconfig.json
+C:\Users\haydarb\source\repos\OrnekForm\OrnekForm\bin\Debug\net8.0-windows\OrnekForm.dll
+C:\Users\haydarb\source\repos\OrnekForm\OrnekForm\bin\Debug\net8.0-windows\OrnekForm.pdb
+C:\Users\haydarb\source\repos\OrnekForm\OrnekForm\obj\Debug\net8.0-windows\OrnekForm.Form1.resources
+C:\Users\haydarb\source\repos\OrnekForm\OrnekForm\obj\Debug\net8.0-windows\OrnekForm.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\OrnekForm\OrnekForm\obj\Debug\net8.0-windows\OrnekForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\OrnekForm\OrnekForm\obj\Debug\net8.0-windows\OrnekForm.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\OrnekForm\OrnekForm\obj\Debug\net8.0-windows\OrnekForm.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\OrnekForm\OrnekForm\obj\Debug\net8.0-windows\OrnekForm.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\OrnekForm\OrnekForm\obj\Debug\net8.0-windows\OrnekForm.dll
+C:\Users\haydarb\source\repos\OrnekForm\OrnekForm\obj\Debug\net8.0-windows\refint\OrnekForm.dll
+C:\Users\haydarb\source\repos\OrnekForm\OrnekForm\obj\Debug\net8.0-windows\OrnekForm.pdb
+C:\Users\haydarb\source\repos\OrnekForm\OrnekForm\obj\Debug\net8.0-windows\OrnekForm.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\OrnekForm\OrnekForm\obj\Debug\net8.0-windows\ref\OrnekForm.dll

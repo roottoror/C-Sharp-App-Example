@@ -1,0 +1,16 @@
+C:\Users\haydarb\source\repos\Degiskenler_Char\Degiskenler_Char\bin\Debug\net9.0-windows\Degiskenler_Char.exe
+C:\Users\haydarb\source\repos\Degiskenler_Char\Degiskenler_Char\bin\Debug\net9.0-windows\Degiskenler_Char.deps.json
+C:\Users\haydarb\source\repos\Degiskenler_Char\Degiskenler_Char\bin\Debug\net9.0-windows\Degiskenler_Char.runtimeconfig.json
+C:\Users\haydarb\source\repos\Degiskenler_Char\Degiskenler_Char\bin\Debug\net9.0-windows\Degiskenler_Char.dll
+C:\Users\haydarb\source\repos\Degiskenler_Char\Degiskenler_Char\bin\Debug\net9.0-windows\Degiskenler_Char.pdb
+C:\Users\haydarb\source\repos\Degiskenler_Char\Degiskenler_Char\obj\Debug\net9.0-windows\Degiskenler_Char.Form1.resources
+C:\Users\haydarb\source\repos\Degiskenler_Char\Degiskenler_Char\obj\Debug\net9.0-windows\Degiskenler_Char.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\Degiskenler_Char\Degiskenler_Char\obj\Debug\net9.0-windows\Degiskenler_Char.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haydarb\source\repos\Degiskenler_Char\Degiskenler_Char\obj\Debug\net9.0-windows\Degiskenler_Char.AssemblyInfoInputs.cache
+C:\Users\haydarb\source\repos\Degiskenler_Char\Degiskenler_Char\obj\Debug\net9.0-windows\Degiskenler_Char.AssemblyInfo.cs
+C:\Users\haydarb\source\repos\Degiskenler_Char\Degiskenler_Char\obj\Debug\net9.0-windows\Degiskenler_Char.csproj.CoreCompileInputs.cache
+C:\Users\haydarb\source\repos\Degiskenler_Char\Degiskenler_Char\obj\Debug\net9.0-windows\Degiskenler_Char.dll
+C:\Users\haydarb\source\repos\Degiskenler_Char\Degiskenler_Char\obj\Debug\net9.0-windows\refint\Degiskenler_Char.dll
+C:\Users\haydarb\source\repos\Degiskenler_Char\Degiskenler_Char\obj\Debug\net9.0-windows\Degiskenler_Char.pdb
+C:\Users\haydarb\source\repos\Degiskenler_Char\Degiskenler_Char\obj\Debug\net9.0-windows\Degiskenler_Char.genruntimeconfig.cache
+C:\Users\haydarb\source\repos\Degiskenler_Char\Degiskenler_Char\obj\Debug\net9.0-windows\ref\Degiskenler_Char.dll

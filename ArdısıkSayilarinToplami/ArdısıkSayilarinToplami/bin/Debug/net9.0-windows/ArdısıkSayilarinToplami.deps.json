@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ArdısıkSayilarinToplami/1.0.0": {
+        "runtime": {
+          "ArdısıkSayilarinToplami.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArdısıkSayilarinToplami/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
